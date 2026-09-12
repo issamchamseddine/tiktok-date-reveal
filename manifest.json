@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "TikTok Date Extractor",
+  "version": "12.0",
+  "description": "Reads clipboard to extract TikTok video date",
+  "action": { 
+    "default_title": "Get Date from Clipboard",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "background": { 
+    "service_worker": "background.js" 
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardRead"
+  ],
+  "host_permissions": [
+    "*://*.tiktok.com/*"
+  ]
+}

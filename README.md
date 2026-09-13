@@ -1,6 +1,6 @@
 🎥 Demo
 
-<video src="[PASTE_YOUR_GITHUB_UPLOAD_LINK_HERE](https://github.com/user-attachments/assets/c8952f14-16e4-438c-bd96-a01d4112caad)" width="100%" controls autoplay loop muted>
+<video src="https://github.com/user-attachments/assets/c8952f14-16e4-438c-bd96-a01d4112caad" width="100%" controls autoplay loop muted>
   Your browser does not support the video tag.
 </video>
 

@@ -1,11 +1,15 @@
 🎥 Demo
-(Video coming soon - I am currently compressing the walkthrough video and will upload it here shortly!)
+
+<video src="[PASTE_YOUR_GITHUB_UPLOAD_LINK_HERE](https://github.com/user-attachments/assets/c8952f14-16e4-438c-bd96-a01d4112caad)" width="100%" controls autoplay loop muted>
+  Your browser does not support the video tag.
+</video>
+
 
 🎯 The Problem
 TikTok's "For You" feed is designed for endless scrolling, but this creates a major issue for users watching news or educational content: upload dates are completely hidden. Without knowing the upload date, it is impossible to tell if a news video is from today or three years ago, making it dangerously easy to consume outdated or misleading information.
 
 💡 The Solution
-TikTok Date Reveal is a lightweight Chrome Extension that extracts the hidden upload timestamp from a TikTok video and displays it directly on the screen as a non-intrusive overlay. It shows the exact date, time, and the age of the video (e.g., "2 days ago" or "5 months ago") for 4 seconds, then fades away so you can keep scrolling.
+TikTok Date Reveal is a lightweight Chrome Extension that extracts the hidden upload timestamp from a TikTok video and displays it directly on the screen as a non-intrusive overlay. It shows the exact date, time, and the age of the video (e.g., "2 days ago" or "5 months ago") for 6 seconds, then fades away so you can keep scrolling.
 
 🧠 How I Built This (AI Orchestration)
 This project was built using AI-Assisted Development, where I acted as the Product Manager and AI Orchestrator, and Qwen AI acted as my development team.
